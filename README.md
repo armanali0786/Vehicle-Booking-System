@@ -20,14 +20,14 @@ The Vehicle Booking System allows users to book vehicles based on their preferen
 
 ## Backend Architecture
 
-  # Technologies Used
+   Technologies Used
 
     Node.js with Express.js: Server-side framework for building the API endpoints.
     Sequelize: ORM (Object-Relational Mapping) for interacting with the SQL database.
 
 ## Frontend Architecture
 
-  # Technologies Used
+   Technologies Used
 
     React.js: Frontend library for building the user interface.
     Material UI: Component library for React to style and structure the UI.
