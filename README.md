@@ -2,22 +2,6 @@
 
 The Vehicle Booking System allows users to book vehicles based on their preferences. The system is designed with a backend API to handle data storage and retrieval, and a frontend application to interact with users and facilitate booking.
 
-## Features
-
--Profile Creation:
-
--Photo Sharing:
-
--Like & Comment:
-
--Explore Tab:
-
--Activity Feed::
-
--Search Functionality:
-
--Notifications and Reminders:
-
 ## Backend Architecture
 
    Technologies Used
